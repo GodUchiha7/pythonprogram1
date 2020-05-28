@@ -1,0 +1,4 @@
+radius=int(input('Please Enter the radius :'))
+pi = 3.14
+area = str(pi*radius*radius)
+print('The area of circle of radius ' + str(radius) + ' is ' + area)
